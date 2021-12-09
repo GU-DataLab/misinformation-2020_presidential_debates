@@ -3,7 +3,6 @@
 This repository contains information to help researchers reproduce the results for the manuscript entitled: Lies and presidential debates: How political misinformation spread across media streams during the 2020 election.
 
 FULL CITATION: 
-
 Haber, J. R., Singh, L., Budak, C., Pasek, J., Balan, M., Callahan, R., Churchill, R., Herren, B., & Kawintiranon, K. (2021). Research Note: Lies and presidential debates: How political misinformation spread across media streams during the 2020 election. Harvard Kennedy School (HKS) Misinformation Review, 2(6).
 
 Files:
