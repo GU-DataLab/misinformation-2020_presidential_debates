@@ -7,7 +7,7 @@ Haber, J. R., Singh, L., Budak, C., Pasek, J., Balan, M., Callahan, R., Churchil
 
 Files:
 1. Misinformation Topics and Phrases: A spreadsheet containg words and phrases associated with the topics in the paper.
-2. Misinformation Topics and Phrases - Surveys: A spreadsheet containing the words and phrases that were added to the other list for this short response text.
+2. Additional Survey Phrases: A spreadsheet containing the words and phrases that were added to the other list for this short response text.
 3. Datasets: An explanation of all the datasets used in the paper and how they were constructed. 
 4. Interactive visuals from the paper: http://election2020.mdi.georgetown.edu/HKS/visualization/
 
